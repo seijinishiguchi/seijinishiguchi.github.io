@@ -1,1 +1,1 @@
-# MySite
+# SNis.xyz
